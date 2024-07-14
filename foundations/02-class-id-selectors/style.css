@@ -11,3 +11,9 @@
 .third {
     font-size: 36px;
 }
+
+#fourth {
+    background-color: #00ff0070;
+    font-size: 24px;
+    font-weight: 600;
+}
